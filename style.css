@@ -1,0 +1,33 @@
+html { 
+    background: url(school.jpg) no-repeat center fixed; 
+    background-size: cover;
+  }
+  th{
+    background-color: #33693ff8;
+    border-radius: 20%;
+    padding: 10px;
+    border-style: solid;
+    border-color: rgb(94, 94, 94);
+  }
+  img {
+    border-radius: 50%;
+   }
+   a{
+    color: aliceblue; 
+   }
+   #AcademicsPic1,#divHOme1,#pq1,#divaboutus1{
+    background-color:#33693fbd ;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+    font-family: sans-serif;
+    text-align: left;
+   }
+   H4{
+    border-style: soliD;
+    border-radius: 10px;
+   }
+   pre{
+    font-family: sans-serif;
+   }
+
